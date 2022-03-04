@@ -1,7 +1,7 @@
 EMREX
 =====
 
-Welcome to EMREX organization on GitHub. Here you will find all the necessary information to get yu started.
+Welcome to EMREX organization on GitHub. Here you will find all the necessary information to get you started.
  
 EMREX can be used in several ways, for example:  
 
@@ -14,7 +14,7 @@ Available repositories:
 
 - [Standard](https://github.com/emrex-eu/standard) repository contains all f the information related to the EMREX standard as well as extensive documentation  
 
-- [Glossary](https://github.com/emrex-eu/glossary)hosts the terminology used in EMREX and the other repositories.  
+- [Glossary](https://github.com/emrex-eu/glossary) hosts the terminology used in EMREX and the other repositories.  
 
 - [ELMO PESC](https://github.com/emrex-eu/elmo-pesc) contains the documentation related to interoperability between the ELMO and PESC data standards. 
 
