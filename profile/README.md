@@ -12,14 +12,15 @@ EMREX can be used in several ways, for example:
 Available repositories:  
 - [ELMO Schemas](https://github.com/emrex-eu/elmo-schemas) contains the ELMO XML schemas. 
 
-- [Standard](https://github.com/emrex-eu/standard) repository contains all f the information related to the EMREX standard as well as extensive documentation  
+- [Standard](https://github.com/emrex-eu/standard) repository contains all of the information related to the EMREX standard as well as extensive documentation  
+
+- [Presentations](https://github.com/emrex-eu/presentations) repository contans meeting and workship materials fo past years.
 
 - [Glossary](https://github.com/emrex-eu/glossary) hosts the terminology used in EMREX and the other repositories.  
 
 - [ELMO PESC](https://github.com/emrex-eu/elmo-pesc) contains the documentation related to interoperability between the ELMO and PESC data standards. 
 
 - [EMP Mockup](https://github.com/emrex-eu/emp-mockup) hosts a mockup implementation of an EMP.  
-
 
 - [EMREX Client](https://github.com/emrex-eu/emrex-client) contains a sample client application for receiving student records from an EMP.  
 
