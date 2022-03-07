@@ -22,6 +22,4 @@ Available repositories:
 
 - [EMP Mockup](https://github.com/emrex-eu/emp-mockup) hosts a mockup implementation of an EMP.  
 
-- [EMREX Client](https://github.com/emrex-eu/emrex-client) contains a sample client application for receiving student records from an EMP.  
-
 - [SMP](https://github.com/emrex-eu/SMP) contains a sample EMC implementation.  
