@@ -12,7 +12,9 @@ EMREX can be used in several ways, for example:
 Available repositories:  
 - [ELMO Schemas](https://github.com/emrex-eu/elmo-schemas) contains the ELMO XML schemas. 
 
-- [Standard](https://github.com/emrex-eu/standard) repository contains all of the information related to the EMREX standard as well as extensive documentation  
+- [Standard](https://github.com/emrex-eu/standard) repository contains all of the information related to the EMREX standard as well as extensive documentation 
+
+- [Implementation Guide](https://github.com/emrex-eu/implementation-guide) repository contains step by step instructions for implementers.
 
 - [Presentations](https://github.com/emrex-eu/presentations) repository contans meeting and workship materials fo past years.
 
