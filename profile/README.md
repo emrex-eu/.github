@@ -18,6 +18,8 @@ Available repositories:
 
 - [Presentations](https://github.com/emrex-eu/presentations) repository contans meeting and workship materials fo past years.
 
+- [Demos](https://github.com/emrex-eu/demos) repository contains available demo systems.
+
 - [Glossary](https://github.com/emrex-eu/glossary) hosts the terminology used in EMREX and the other repositories.  
 
 - [ELMO PESC](https://github.com/emrex-eu/elmo-pesc) contains the documentation related to interoperability between the ELMO and PESC data standards. 
